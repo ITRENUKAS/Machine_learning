@@ -1,2 +1,6 @@
 # Machine_learning
 DIABETES PRIDICTION USIING MACHINE LEARNING
+Diabetes is considered as one of the deadliest and chronic diseases which is caused by increased levels of blood sugar. Many complications occur if diabetes remains untreated and unidentified. According to the International Diabetes Federation, 382 million people worldwide have diabetes. By 2035, this figure will have more than doubled to 592 million. A variety of traditional approaches based on physical and chemical investigations are available for diagnosing diabetes. People having diabetes have high risk of diseases like heart disease, kidney disease, stroke, eye problem, nerve damage, etc.
+The primary goal of this research is to is to design a model which can predict the likelihood of diabetes in patients with maximum accuracy by merging the findings of several machine learning algorithms.
+This study attempts to predict diabetes using four distinct machine learning algorithms: SVM, Logistic Regression, Decision Tree and Random Forest. Furthermore, using machine learning techniques, this study aims to propose a best solution for early diabetes detection.
+Keywords: Machine learning, Support vector machine, Gradient Boosting, Random Forest, Accuracy, Prediction, Diabetes, Non-Diabetes.
